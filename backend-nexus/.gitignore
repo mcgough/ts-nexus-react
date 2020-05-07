@@ -4,6 +4,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-variables.env
+.env
 # Prisma
 failed-inferMigrationSteps*
